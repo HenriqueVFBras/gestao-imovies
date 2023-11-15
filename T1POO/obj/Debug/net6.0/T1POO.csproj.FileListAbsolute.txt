@@ -1,0 +1,14 @@
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\T1POO\T1POO\bin\Debug\net6.0\T1POO.exe
+C:\Users\Henrique\source\repos\T1POO\T1POO\bin\Debug\net6.0\T1POO.deps.json
+C:\Users\Henrique\source\repos\T1POO\T1POO\bin\Debug\net6.0\T1POO.runtimeconfig.json
+C:\Users\Henrique\source\repos\T1POO\T1POO\bin\Debug\net6.0\T1POO.dll
+C:\Users\Henrique\source\repos\T1POO\T1POO\bin\Debug\net6.0\T1POO.pdb
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.dll
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\refint\T1POO.dll
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.pdb
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\T1POO.genruntimeconfig.cache
+C:\Users\Henrique\source\repos\T1POO\T1POO\obj\Debug\net6.0\ref\T1POO.dll
