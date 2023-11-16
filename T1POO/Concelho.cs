@@ -1,5 +1,10 @@
 ﻿
 public class Concelho
 {
-    // Propriedades do concelho
+    public int ConcelhoId { get; set; }
+    public string Nome { get; set; }
+    public int DistritoId { get; set; }
+    // Outras propriedades do concelho
+
+    // Possíveis métodos adicionais
 }

@@ -1,5 +1,10 @@
 ﻿public class Imovel
 {
-    // Propriedades do imóvel (apartamento, vivenda, terreno)
+    public int ImovelId { get; set; }
+    public string Tipo { get; set; } // apartamento, vivenda, terreno
+    public string Endereco { get; set; }
+    // Outras propriedades do imóvel
+
+    // Possíveis métodos adicionais
 }
 

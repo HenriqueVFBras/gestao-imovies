@@ -1,4 +1,9 @@
 ﻿public class Distrito
 {
-    // Propriedades do distrito
+    public int DistritoId { get; set; }
+    public string Nome { get; set; }
+    // Outras propriedades do distrito
+
+    // Possíveis métodos adicionais
+
 }
