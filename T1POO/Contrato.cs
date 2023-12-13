@@ -5,8 +5,6 @@
     public int ImovelId { get; set; }
     public DateTime DataInicio { get; set; }
     public DateTime DataFim { get; set; }
-    // Outras propriedades do contrato
 
-    // Possíveis métodos adicionais
 }
 

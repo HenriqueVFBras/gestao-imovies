@@ -4,8 +4,6 @@
     public int ImovelId { get; set; }
     public decimal Valor { get; set; }
     public string Descricao { get; set; }
-    // Outras propriedades da despesa
 
-    // Possíveis métodos adicionais
 }
 

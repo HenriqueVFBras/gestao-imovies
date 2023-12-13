@@ -5,8 +5,6 @@
     public int ImovelId { get; set; }
     public decimal Valor { get; set; }
     public DateTime DataEmissao { get; set; }
-    // Outras propriedades do recibo
 
-    // Possíveis métodos adicionais
 }
 

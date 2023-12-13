@@ -4,7 +4,5 @@
     public int ImovelId { get; set; }
     public string Tipo { get; set; }
     public string Caminho { get; set; }
-    // Outras propriedades do documento
 
-    // Possíveis métodos adicionais
 }
